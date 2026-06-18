@@ -1,0 +1,8 @@
+com\example\demo\ProductCrud1Application.class
+com\example\demo\controller\controller.class
+com\example\demo\entity\User.class
+com\example\demo\dao\IUserdao.class
+com\example\demo\interfaces\IUserServices.class
+com\example\demo\ProductCrud1Application$Myconfiguration$1.class
+com\example\demo\service\IUserImpl.class
+com\example\demo\ProductCrud1Application$Myconfiguration.class

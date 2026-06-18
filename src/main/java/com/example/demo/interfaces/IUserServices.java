@@ -1,6 +1,5 @@
 package com.example.demo.interfaces;
 
-import java.util.Date;
 import java.util.List;
 
 import com.example.demo.entity.User;
